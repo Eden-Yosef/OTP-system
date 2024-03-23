@@ -14,14 +14,14 @@ MySQL Database: Stores the required information such as user details.
 📦 ## Installation
 
 1. **Install Dependencies**: Run the following command to install all required dependencies:
-    ```bash
+```
 npm install
 ```
 2. **Set Environment Variables**: Edit the `.env` file and define your database connection details and any required settings.
 
 3. **Run the Server**: Once everything is set up correctly, run the following command to start the server:
 
-    ```bash
+```
 node index.js
 ```
 The project provides authentication using OTP codes sent to the user's email upon registration.
