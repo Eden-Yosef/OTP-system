@@ -1,17 +1,17 @@
 # OTP System 🔑
 
-🔨 ## Development of a project from scratch for user registration and login using a one-time password (OTP) sent to email. Node.js server-side, React client-side, and MySQL Database.
+## Development of a project from scratch for user registration and login using a one-time password (OTP) sent to email. Node.js server-side, React client-side, and MySQL Database. 🔨 
 
 In order to properly log in to the system, users must first register and then log in with the email they registered with. Afterward, they will receive a code to their email with a validity of 5 minutes, which they must enter during the login process.
 
-🌐 ## Overview
+## Overview 🌐
 
 The project consists of code divided into two main components:
 
 Node.js Server: Embeds the application logic and operates as the request server. The server defines the API endpoints.
 MySQL Database: Stores the required information such as user details.
 
-📦 ## Installation
+## Installation 📦 
 
 1. **Install Dependencies**: Run the following command to install all required dependencies:
 ```
