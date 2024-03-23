@@ -24,6 +24,16 @@ npm install
 ```
 node index.js
 ```
+or
+```
+nodemon
+```
+
+4. **Run the Client**: 
+```
+npm run dev
+```
+
 The project provides authentication using OTP codes sent to the user's email upon registration.
 
 ## Support
