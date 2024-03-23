@@ -1,0 +1,16 @@
+.form {
+  padding: 3%;
+}
+
+.form label {
+  position: relative;
+}
+
+.form label .input {
+  background-color: #333;
+  color: #fff;
+  width: -webkit-fill-available;
+  padding: 10px;
+  outline: 0;
+  border-radius: 10px;
+}
